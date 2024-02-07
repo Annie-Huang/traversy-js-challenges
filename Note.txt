@@ -7,3 +7,4 @@ https://github.com/Annie-Huang/traversy-js-challenges
 --------------------------------------------------------------------
 
 PS C:\react\traversy-js-challenges> npm install jest --save-dev
+PS C:\react\traversy-js-challenges> npm test
