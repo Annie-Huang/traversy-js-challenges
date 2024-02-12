@@ -8,3 +8,5 @@ https://github.com/Annie-Huang/traversy-js-challenges
 
 PS C:\react\traversy-js-challenges> npm install jest --save-dev
 PS C:\react\traversy-js-challenges> npm test
+PS C:\react\traversy-js-challenges> npm run test C:\react\traversy-js-challenges\04-recursion\02-unwinding\sum-up-to.test
+.js
