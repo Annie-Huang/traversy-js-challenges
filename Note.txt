@@ -5,6 +5,8 @@ https://github.com/bradtraversy/traversy-js-challenges
 https://github.com/Annie-Huang/traversy-js-challenges
 
 --------------------------------------------------------------------
+https://www.w3schools.com/jsref/jsref_regexp_wordchar_non.asp	<--- List all the metacharaers match cases mean.
+
 
 PS C:\react\traversy-js-challenges> npm install jest --save-dev
 PS C:\react\traversy-js-challenges> npm test
