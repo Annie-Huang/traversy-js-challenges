@@ -1,7 +1,6 @@
 const permutations = require('./permutations');
 
 test('Permutations', () => {
-  console.log("permutations('abc')=", permutations('abc'));
   expect(permutations('abc')).toEqual([
     'abc',
     'acb',
