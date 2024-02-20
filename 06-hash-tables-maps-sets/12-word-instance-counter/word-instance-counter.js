@@ -18,5 +18,3 @@ function wordInstanceCounter(str, word) {
 }
 
 module.exports = wordInstanceCounter;
-
-split(/\W+/);
