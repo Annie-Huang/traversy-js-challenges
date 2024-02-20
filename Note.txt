@@ -15,3 +15,7 @@ PS C:\react\traversy-js-challenges> npm run test C:\react\traversy-js-challenges
 PS C:\react\traversy-js-challenges> node C:\react\traversy-js-challenges\06-hash-tables-maps-sets\11-custom-hash-table\cu
 stom-hash-table-run.js
 7
+
+
+Maybe remember stack implementation, because there is usually what got asked in the interview.
+The other two is queue and linkList.
